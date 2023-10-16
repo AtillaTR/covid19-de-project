@@ -11,7 +11,7 @@ variable "aws_region" {
 }
 
 variable "s3_bucket_name" {
-    default = "de-atilla-covid-data"
+    default = "de-atilla-covid-data-v2"
 }
 
 variable "s3_bucket_name_athena" {
