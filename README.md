@@ -52,9 +52,6 @@ Before running this project, make sure you have the following prerequisites:
 
    You can now analyze the COVID-19 data in your Redshift cluster.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
